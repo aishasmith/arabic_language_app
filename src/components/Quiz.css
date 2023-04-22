@@ -1,0 +1,18 @@
+.Quiz .Quiz__TargetLetter {
+    height: 4rem;
+    font-size: 2rem;
+    line-height: 2;
+}
+
+.Quiz .Quiz__OptionButtons {
+    max-width: 12rem;
+    margin: 0 auto 1rem;
+}
+
+.Quiz .Quiz__ControlButton {
+    width: 11rem;
+    padding: 0.25rem;
+    font-size: 1.25rem;
+    background-color: darkslategray;
+    color: #fff;
+}
